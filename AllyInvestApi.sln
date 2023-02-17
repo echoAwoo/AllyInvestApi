@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Api", "Api\Api.shproj", "{EEE327B3-5A4E-4819-99E1-467D7299FEDA}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A71211A-9853-43EC-B760-BACBE9F9B1A8}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Api\Api.projitems*{eee327b3-5a4e-4819-99e1-467d7299feda}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
